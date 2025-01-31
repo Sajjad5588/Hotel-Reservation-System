@@ -1,0 +1,1 @@
+A Hotel Reservation System in Java is a program that allows users to book rooms at a hotel. It typically lets users choose the type of room, check the availability of rooms, book rooms, and calculate the total cost of the stay based on the number of days and room type.
